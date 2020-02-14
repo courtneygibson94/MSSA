@@ -1,0 +1,9 @@
+C:\Users\erau\source\repos\petData\bin\Debug\petData.exe.config
+C:\Users\erau\source\repos\petData\bin\Debug\petData.exe
+C:\Users\erau\source\repos\petData\bin\Debug\petData.pdb
+C:\Users\erau\source\repos\petData\obj\Debug\petData.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\petData\obj\Debug\petData.Form1.resources
+C:\Users\erau\source\repos\petData\obj\Debug\petData.Properties.Resources.resources
+C:\Users\erau\source\repos\petData\obj\Debug\petData.csproj.GenerateResource.cache
+C:\Users\erau\source\repos\petData\obj\Debug\petData.exe
+C:\Users\erau\source\repos\petData\obj\Debug\petData.pdb
