@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\russianRoulette\bin\Debug\russianRoulette.exe.config
+C:\Users\erau\source\repos\russianRoulette\bin\Debug\russianRoulette.exe
+C:\Users\erau\source\repos\russianRoulette\bin\Debug\russianRoulette.pdb
+C:\Users\erau\source\repos\russianRoulette\obj\Debug\russianRoulette.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\russianRoulette\obj\Debug\russianRoulette.exe
+C:\Users\erau\source\repos\russianRoulette\obj\Debug\russianRoulette.pdb
